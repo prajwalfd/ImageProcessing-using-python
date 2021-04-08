@@ -17,3 +17,5 @@ Implement Image Blurring using Gaussian Low Pass Filter
 Enhance an Image using a Sharpening Filter
 Implement Edge Detection in an image
 Create a new image by morphing 2 images
+
+*Insert your image and give path. I've used "cat_image.jpg" 
